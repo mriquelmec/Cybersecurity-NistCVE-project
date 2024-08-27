@@ -1,0 +1,16 @@
+.formularioProyecto{
+    width: 600px;
+    margin: 50px auto;
+    padding: 0px 30px 30px 30px;
+    border: 1px solid #333333;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+}
+
+.formularioProyecto>span{
+    position: relative;
+    bottom: 13px;
+    background-color: white;
+    padding: 20px;
+}
